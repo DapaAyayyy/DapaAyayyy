@@ -1,8 +1,8 @@
-# Hi there, I'm DapaAyayyy 👋
+# Hi there, I'm DapaAyayyy 
 
 
 
-An Informatics student who values realism and efficiency—always looking for the smartest way to solve problems without overcomplicating things. 🚀
+An Informatics student who like to learn about something new
 
 
 
@@ -10,7 +10,7 @@ An Informatics student who values realism and efficiency—always looking for th
 
 - 🎓 Currently studying Informatics.
 
-- 🌱 I’m currently diving deeper into **Cyber Security**.
+- 🌱 I’m currently diving deeper into **Cyber Security** & **Game Development**.
 
 - 🎮 Outside of coding, I enjoy game development and checking out visual novels.
 
