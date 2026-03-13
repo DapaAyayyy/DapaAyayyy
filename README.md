@@ -15,7 +15,15 @@ An Informatics student who values realism and efficiency—always looking for th
 - 🎮 Outside of coding, I enjoy game development and checking out visual novels.
 
 
+---
 
+## 🚀 Tech Stack
+
+![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
+![C#](https://img.shields.io/badge/Language-C%23-purple?logo=csharp)
+![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
+
+---
 
 
 ## 📈 GitHub Stats
