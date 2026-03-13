@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Kamu] 👋
+# Hi there, I'm DapaAyayyy 👋
 
 
 
@@ -10,13 +10,10 @@ An Informatics student who values realism and efficiency—always looking for th
 
 - 🎓 Currently studying Informatics.
 
-- 🔭 I’m currently working on a **Malware Detection project using Machine Learning** and a **Food Nutrition Barcode Scanner App**.
-
-- 🌱 I’m currently diving deeper into **Cyber Security** and experimenting with local AI models like **Ollama**.
+- 🌱 I’m currently diving deeper into **Cyber Security**.
 
 - 🎮 Outside of coding, I enjoy game development and checking out visual novels.
 
-- 📫 How to reach me: [Link LinkedIn atau Email kamu]
 
 
 
