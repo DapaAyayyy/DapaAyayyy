@@ -22,6 +22,6 @@ jobs:
           base: ""
           plugin_anilist: yes
           plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
+          plugin_anilist_sections: favorites
           plugin_anilist_limit: 5
           plugin_anilist_user: .user.login
