@@ -39,3 +39,9 @@ An Informatics student who like to learn about something new
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DapaAyayyy&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
+<table>
+<td>
+<p align="center"> <img src="/github-metrics.svg" alt="Anilist" width="600%"></p>
+<br /> <br />
+</td> 
+</table>
