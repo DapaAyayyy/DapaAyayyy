@@ -14,12 +14,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Current configuration doesn't require a GitHub token
-          token: NOT_NEEDED
 
           # Options
           user: DapaAyayyy
           filename: metrics.plugin.anilist.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
           plugin_anilist_medias: anime
