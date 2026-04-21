@@ -12,7 +12,7 @@ An Informatics student who like to learn about something new
 
 - 🌱 I’m currently diving deeper into **Cyber Security** & **Game Development**.
 
-- 🎮 Outside of coding, I enjoy game development and checking out visual novels.
+- 🦀 Outside of coding stuff, I also enjoy pixel art and checking out visual novels.
 
 
 ---
