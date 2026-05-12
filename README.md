@@ -30,6 +30,7 @@ An Informatics student who like to learn about something new
 
 
 
+
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=DapaAyayyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
